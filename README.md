@@ -63,3 +63,9 @@
     - when your code gets compiled, it will be placed at the package you indicated
     - it also helps to prevent name conflicts between messages (my.package.Person)
 - Packages will help all the different languages compile correctly from `.proto` files(Java, C#, Python, Go, etc..)
+
+## Setup
+
+```shell
+brew install protobuf
+```
