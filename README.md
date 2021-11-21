@@ -68,4 +68,5 @@
 
 ```shell
 brew install protobuf
+protoc
 ```
