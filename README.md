@@ -39,3 +39,10 @@ for your schemas
 the `Enum` type
 - The first value of an Enum is the default value
 - Enum must start by the tag 0(which is the default value)
+
+### Nesting Types
+- It is possible to define types within types
+- The reason could be
+    - avoid naming conflicts
+    - Enforcing some level of "locality" for that type
+- You can nest types as deeply as you want
